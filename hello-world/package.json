@@ -16,6 +16,7 @@
     "test": "npm run compile && npm run unit"
   },
   "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.760.0",
     "axios": "^1.8.1",
     "dotenv": "^16.4.7",
     "esbuild": "^0.14.14"
